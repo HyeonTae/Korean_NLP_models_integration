@@ -2,11 +2,10 @@
 
 ## Dependencies
 - Python version is 3.6.7
-우리는 아래와 같이 CUDA 버전에 맞는 Pytorch 버전을 사용합니다.
-gpu support (CUDA==10.1)
-- torch==1.2.0
-gpu support (CUDA>10.1)
-- torch==1.5.0
+- gpu support (CUDA==10.1)
+torch==1.2.0
+- gpu support (CUDA>10.1)
+torch==1.5.0
 Etc. (Included in "requirements.txt")
 - torchtext==0.3.1
 - numpy==1.16.1
