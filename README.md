@@ -1,4 +1,4 @@
-# Korean_NLP_models_integration
+# Korean_NLP_models_integration ![Custom badge](https://img.shields.io/badge/version-v0.0.1-blue.svg)
 
 ## Dependencies
 - Python version is 3.6.7
